@@ -9,7 +9,7 @@ let pSize=3;
 let eyeStyle=1;
 let tailStyle=1;
 let starStyle=1;
-let mouthStyle=1;
+let mouthStyle=0;
 let pointStyle=1;
 
 let black;
